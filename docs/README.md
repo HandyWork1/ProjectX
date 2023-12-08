@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# ProjectX
+this is portfolio which includes several index.html
+=======
 # ProjectX - Portfolio Page
 
 ## Overview
@@ -13,3 +17,4 @@ ProjectX is a simple portfolio page built using HTML/CSS and Bootstrap framework
 This project utilizes Node.js to deploy the website. The main HTML file, `index.html`, is located in the `src` folder. To start the application locally, use the following command:
 ```bash
 npm start
+>>>>>>> 42e9d0bfea3dc7daa212eccd09e363f9acd855c0
