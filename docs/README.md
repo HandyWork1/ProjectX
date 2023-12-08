@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ProjectX
-this is portfolio which includes several index.html
-=======
 # ProjectX - Portfolio Page
 
 ## Overview
