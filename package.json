@@ -1,0 +1,26 @@
+{
+  "name": "projectx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HandyWork1/ProjectX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HandyWork1/ProjectX/issues"
+  },
+  "homepage": "https://github.com/HandyWork1/ProjectX#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
