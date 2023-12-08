@@ -1,10 +1,11 @@
 <<<<<<< HEAD
-# ProjectX
-this is portfolio which includes several index.html
+# line seven
+this is portfolio which includes index.html
 =======
 # ProjectX - Portfolio Page
 
 ## Overview
+
 ProjectX is a simple portfolio page built using HTML/CSS and Bootstrap framework. It showcases a portfolio with sections for About, Skills, Projects, and Contact. The page is designed to display information about the creator's skills, projects, and how to get in touch.
 
 ## Features
